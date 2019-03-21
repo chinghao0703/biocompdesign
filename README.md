@@ -2,9 +2,7 @@
 
 This repository contains the Python codes used in the following (forthcoming) publication. 
 
-"Engineering cellular computations through biophysical design"
+“Pinned, locked, pushed, and pulled traveling waves in structured environments”  on [arXiv:1806.02480](https://arxiv.org/abs/1806.02480) and [bioRxiv:10.1101/341222](https://doi.org/10.1101/341222).
 
-Ching-Hao Wang, Caleb J. Bashor, and Pankaj Mehta
+Ching-Hao Wang, Sakib Matin, Ashish B. George, Kirill S. Korolev
 
-Complete scripts, including Python class to implement signaling networks with Markov Random Field and the snippets to generate all
-figures will be updated once the manuscript is on bioRxiv and arXiv. Stay tuned!
